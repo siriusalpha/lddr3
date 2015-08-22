@@ -1,0 +1,1 @@
+cmd_/home/sirius/Workspace/ldd/martinez_ldd/ldd3/usb/built-in.o :=  rm -f /home/sirius/Workspace/ldd/martinez_ldd/ldd3/usb/built-in.o; ar rcsD /home/sirius/Workspace/ldd/martinez_ldd/ldd3/usb/built-in.o

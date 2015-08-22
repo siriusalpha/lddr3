@@ -1,0 +1,1 @@
+cmd_/home/sirius/Workspace/ldd/martinez_ldd/ldd3/scullv/scullv.o := ld -m elf_x86_64   -r -o /home/sirius/Workspace/ldd/martinez_ldd/ldd3/scullv/scullv.o /home/sirius/Workspace/ldd/martinez_ldd/ldd3/scullv/main.o /home/sirius/Workspace/ldd/martinez_ldd/ldd3/scullv/mmap.o 

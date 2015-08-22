@@ -1,0 +1,1 @@
+cmd_/home/sirius/Workspace/ldd/martinez_ldd/ldd3/scullc/scullc.o := ld -m elf_x86_64   -r -o /home/sirius/Workspace/ldd/martinez_ldd/ldd3/scullc/scullc.o /home/sirius/Workspace/ldd/martinez_ldd/ldd3/scullc/main.o 

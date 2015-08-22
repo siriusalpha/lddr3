@@ -1,0 +1,11 @@
+kernel//home/sirius/Workspace/ldd/martinez_ldd/ldd3/misc-modules/hello.ko
+kernel//home/sirius/Workspace/ldd/martinez_ldd/ldd3/misc-modules/hellop.ko
+kernel//home/sirius/Workspace/ldd/martinez_ldd/ldd3/misc-modules/seq.ko
+kernel//home/sirius/Workspace/ldd/martinez_ldd/ldd3/misc-modules/jit.ko
+kernel//home/sirius/Workspace/ldd/martinez_ldd/ldd3/misc-modules/jiq.ko
+kernel//home/sirius/Workspace/ldd/martinez_ldd/ldd3/misc-modules/sleepy.ko
+kernel//home/sirius/Workspace/ldd/martinez_ldd/ldd3/misc-modules/complete.ko
+kernel//home/sirius/Workspace/ldd/martinez_ldd/ldd3/misc-modules/silly.ko
+kernel//home/sirius/Workspace/ldd/martinez_ldd/ldd3/misc-modules/faulty.ko
+kernel//home/sirius/Workspace/ldd/martinez_ldd/ldd3/misc-modules/kdatasize.ko
+kernel//home/sirius/Workspace/ldd/martinez_ldd/ldd3/misc-modules/kdataalign.ko
